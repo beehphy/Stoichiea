@@ -1,0 +1,8 @@
+Stoicheia Notes
+
+RPi = 3.5x2.5
+Teensie = 4mm(0.16") (1in sq) = top right
+
+Fan array overall = 14.25x4.75
+Fan holes = dia4.5" 3/16"spaces
+Fab mounting holes = 4" sq, 0.3" from edge

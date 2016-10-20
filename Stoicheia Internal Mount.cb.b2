@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="Stoicheia Internal Mount">
+  <layers>
+    <layer name="Default" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <rect id="1" Closed="true" w="600" h="750">
+          <ModificationCount>13</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>0,0,0</p>
+            <p>600,0,0</p>
+            <p>600,750,0</p>
+            <p>0,750,0</p>
+          </pts>
+        </rect>
+        <circle id="2" c="20,730,0" d="12.699999809265137">
+          <ModificationCount>80</ModificationCount>
+          <Tag>hanger1</Tag>
+          <mat m="Identity" />
+        </circle>
+        <circle id="3" c="580,730,0" d="12.699999809265137">
+          <ModificationCount>81</ModificationCount>
+          <Tag>hanger2</Tag>
+          <mat m="Identity" />
+        </circle>
+        <circle id="4" c="348.849992275238,635.750000476837,0" d="4.0639999389648436">
+          <ModificationCount>472</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="5" c="374.249991893768,635.750000476837,0" d="4.0639999389648436">
+          <ModificationCount>472</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="6" c="348.849992275238,610.350000858307,0" d="4.0639999389648436">
+          <ModificationCount>471</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="7" c="374.249991893768,610.350000858307,0" d="4.0639999389648436">
+          <ModificationCount>472</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="24" c="38.0999994277954,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="25" c="38.0999994277954,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="26" c="38.0999994277954,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="27" c="38.0999994277954,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="28" c="38.0999994277954,330.199995040894,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="30" c="76.1999988555908,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="31" c="76.1999988555908,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="32" c="76.1999988555908,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="33" c="76.1999988555908,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="34" c="76.1999988555908,330.199995040894,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="36" c="114.299998283386,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="37" c="114.299998283386,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="38" c="114.299998283386,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="39" c="114.299998283386,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="40" c="114.299998283386,330.199995040894,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="42" c="152.399997711182,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="43" c="152.399997711182,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="44" c="152.399997711182,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="45" c="152.399997711182,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="46" c="152.399997711182,330.199995040894,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="48" c="190.499997138977,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="49" c="190.499997138977,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="50" c="190.499997138977,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="51" c="190.499997138977,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="52" c="190.499997138977,330.199995040894,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="54" c="228.599996566772,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="55" c="228.599996566772,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="56" c="228.599996566772,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="57" c="228.599996566772,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="58" c="228.599996566772,330.199995040894,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="60" c="266.699995994568,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="61" c="266.699995994568,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="62" c="266.699995994568,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="63" c="266.699995994568,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="64" c="266.699995994568,330.199995040894,0" d="8.9">
+          <ModificationCount>83</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="65" c="266.699995994568,368.299994468689,0" d="50">
+          <ModificationCount>82</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="66" c="304.799995422363,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="67" c="304.799995422363,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="68" c="304.799995422363,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="69" c="304.799995422363,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="70" c="304.799995422363,330.199995040894,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="71" c="304.799995422363,368.299994468689,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="72" c="342.899994850159,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="73" c="342.899994850159,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="74" c="342.899994850159,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="75" c="342.899994850159,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="76" c="342.899994850159,330.199995040894,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="77" c="342.899994850159,368.299994468689,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="78" c="380.999994277954,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="79" c="380.999994277954,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="80" c="380.999994277954,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="81" c="380.999994277954,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="82" c="380.999994277954,330.199995040894,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="83" c="380.999994277954,368.299994468689,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="84" c="419.09999370575,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="85" c="419.09999370575,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="86" c="419.09999370575,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="87" c="419.09999370575,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="88" c="419.09999370575,330.199995040894,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="89" c="419.09999370575,368.299994468689,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="90" c="457.199993133545,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="91" c="457.199993133545,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="92" c="457.199993133545,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="93" c="457.199993133545,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="94" c="457.199993133545,330.199995040894,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="95" c="457.199993133545,368.299994468689,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="96" c="495.29999256134,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="97" c="495.29999256134,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="98" c="495.29999256134,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="99" c="495.29999256134,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="100" c="495.29999256134,330.199995040894,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="101" c="495.29999256134,368.299994468689,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="102" c="533.399991989136,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="103" c="533.399991989136,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="104" c="533.399991989136,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="105" c="533.399991989136,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="106" c="533.399991989136,330.199995040894,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="107" c="533.399991989136,368.299994468689,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="108" c="571.499991416931,177.799997329712,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="109" c="571.499991416931,215.899996757507,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="110" c="571.499991416931,253.999996185303,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="111" c="571.499991416931,292.099995613098,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="112" c="571.499991416931,330.199995040894,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="113" c="571.499991416931,368.299994468689,0" d="8.8899998664855957">
+          <ModificationCount>81</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="114" c="580,20,0" d="12.699999809265137">
+          <ModificationCount>466</ModificationCount>
+          <Tag>hanger2</Tag>
+          <mat m="Identity" />
+        </circle>
+        <circle id="115" c="20,20,0" d="12.699999809265137">
+          <ModificationCount>466</ModificationCount>
+          <Tag>hanger1</Tag>
+          <mat m="Identity" />
+        </circle>
+        <rect id="122" Closed="true" p="120,15,0" w="7.5" h="7.5">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>120,15,0</p>
+            <p>127.5,15,0</p>
+            <p>127.5,22.5,0</p>
+            <p>120,22.5,0</p>
+          </pts>
+        </rect>
+        <circle id="124" c="127.5,22.5,0" d="6">
+          <ModificationCount>52</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="127" c="232.5,127.5,0" d="6">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="128" c="232.5,22.5,0" d="6">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="129" c="127.5,127.5,0" d="6">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="130" c="352.5,22.5,0" d="6">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="131" c="352.5,127.5,0" d="6">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="132" c="247.5,127.5,0" d="6">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="133" c="247.5,22.5,0" d="6">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="134" c="472.5,22.5,0" d="6">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="135" c="472.5,127.5,0" d="6">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="136" c="367.5,127.5,0" d="6">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="137" c="367.5,22.5,0" d="6">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <pline id="139" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.16456344871785145">361,50,0</p>
+            <p b="0.57735026918962573">388.5,18.7083487540115,0</p>
+            <p b="0.57735026918962573">486,75,0</p>
+            <p b="0.16456344871785147">388.5,131.291651245989,0</p>
+            <p b="0.45246387423882733">361,100,0</p>
+            <p b="0.16456344871785147">268.5,131.291651245989,0</p>
+            <p b="0.45246387423882733">241,100,0</p>
+            <p b="0.57735026918962573">148.5,131.291651245989,0</p>
+            <p b="0.45246387423882756">148.5,18.7083487540115,0</p>
+            <p b="0.16456344871785145">241,50,0</p>
+            <p b="0.45246387423882745">268.5,18.7083487540115,0</p>
+          </pts>
+        </pline>
+        <circle id="146" c="48.5,626.5,0" d="5">
+          <ModificationCount>353</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="147" c="48.5,676.5,0" d="5">
+          <ModificationCount>353</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="148" c="198.5,676.5,0" d="5">
+          <ModificationCount>353</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="149" c="198.5,626.5,0" d="5">
+          <ModificationCount>353</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="153" c="48.5,501.5,0" d="5">
+          <ModificationCount>277</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="154" c="48.5,551.5,0" d="5">
+          <ModificationCount>277</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="155" c="198.5,551.5,0" d="5">
+          <ModificationCount>277</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="156" c="198.5,501.5,0" d="5">
+          <ModificationCount>277</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="160" c="48.5,376.5,0" d="5">
+          <ModificationCount>277</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="161" c="48.5,426.5,0" d="5">
+          <ModificationCount>277</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="162" c="198.5,426.5,0" d="5">
+          <ModificationCount>277</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="163" c="198.5,376.5,0" d="5">
+          <ModificationCount>277</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="192" c="266.699995994568,406.399994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="193" c="304.799995422363,406.399994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="194" c="266.699995994568,444.499994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="195" c="304.799995422363,444.499994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="196" c="266.699995994568,482.599994468689,0" d="50">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="197" c="304.799995422363,482.599994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="198" c="266.699995994568,520.699994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="199" c="304.799995422363,520.699994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="200" c="266.699995994568,558.799994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="201" c="304.799995422363,558.799994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="202" c="266.699995994568,596.899994468689,0" d="50">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="203" c="304.799995422363,596.899994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="204" c="266.699995994568,634.999994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="205" c="304.799995422363,634.999994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="206" c="266.699995994568,673.099994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="207" c="304.799995422363,673.099994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="208" c="266.699995994568,711.199994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="209" c="304.799995422363,711.199994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="212" c="342.899995422363,673.099994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="213" c="342.899995422363,711.199994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="214" c="380.999995422363,673.099994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="215" c="380.999995422363,711.199994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="216" c="419.099995422363,673.099994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="217" c="419.099995422363,711.199994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="218" c="457.199995422363,673.099994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="219" c="457.199995422363,711.199994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="220" c="495.299995422363,673.099994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="221" c="495.299995422363,711.199994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="223" c="533.399995422363,711.199994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="225" c="571.499995422363,711.199994468689,0" d="8.8899998664855957">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="226" c="543.10000038147,674.5,0" d="4.0639999389648436">
+          <ModificationCount>59</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="227" c="568.5,674.5,0" d="4.0639999389648436">
+          <ModificationCount>59</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="229" c="533,417.5,0" d="4.0639999389648436">
+          <ModificationCount>225</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="230" c="578,417.5,0" d="4.0639999389648436">
+          <ModificationCount>270</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="231" c="495.29999256134,406.399994468689,0" d="8.8899998664855957">
+          <ModificationCount>95</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="232" c="495.29999256134,444.499994468689,0" d="8.8899998664855957">
+          <ModificationCount>95</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="233" c="495.29999256134,482.599994468689,0" d="8.8899998664855957">
+          <ModificationCount>95</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="234" c="495.29999256134,520.699994468689,0" d="8.8899998664855957">
+          <ModificationCount>95</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="235" c="495.29999256134,558.799994468689,0" d="8.8899998664855957">
+          <ModificationCount>95</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="236" c="495.29999256134,596.899994468689,0" d="8.8899998664855957">
+          <ModificationCount>95</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="237" c="495.29999256134,634.999994468689,0" d="8.8899998664855957">
+          <ModificationCount>95</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="238" c="457.199993133545,406.399994468689,0" d="8.8899998664855957">
+          <ModificationCount>56</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="239" c="457.199993133545,444.499994468689,0" d="8.8899998664855957">
+          <ModificationCount>56</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="240" c="457.199993133545,482.599994468689,0" d="8.8899998664855957">
+          <ModificationCount>56</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="241" c="457.199993133545,520.699994468689,0" d="8.8899998664855957">
+          <ModificationCount>56</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="242" c="457.199993133545,558.799994468689,0" d="8.8899998664855957">
+          <ModificationCount>56</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="243" c="457.199993133545,596.899994468689,0" d="8.8899998664855957">
+          <ModificationCount>56</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="244" c="457.199993133545,634.999994468689,0" d="8.8899998664855957">
+          <ModificationCount>56</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="246" c="120.5,379.5,0" d="5">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>Default</ActiveLayer>
+</CADFile>
